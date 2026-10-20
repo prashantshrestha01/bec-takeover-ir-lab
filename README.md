@@ -1,5 +1,8 @@
 # BEC Account Takeover — Simulated Investigation Lab
 
+![Incident Response](https://img.shields.io/badge/Incident_Response-C41E3A?style=flat-square) ![DFIR](https://img.shields.io/badge/DFIR-2D2D2D?style=flat-square) ![KQL](https://img.shields.io/badge/KQL-68217A?style=flat-square)
+
+
 A case-study style investigation of a simulated CEO-fraud / business email compromise (BEC) account takeover, reconstructed entirely from synthetic sign-in logs. Built as a home-lab exercise in timeline analysis, signal correlation, and containment.
 
 > **All data is fictional.** `contoso.com` is Microsoft's standard demo domain; every person, IP, and event here is invented for training.
@@ -36,3 +39,13 @@ An attacker runs a password spray against a small company's Microsoft 365 tenant
 ## Skills demonstrated
 
 Log analysis, attack timeline reconstruction, BEC kill-chain understanding (initial access → persistence → collection → fraud), KQL detection authoring, containment runbook execution, and executive communication.
+
+---
+
+### 👤 About the author
+
+**Prashant Shrestha** — Cybersecurity Specialist (CDI College, in progress) · 11+ years across SOC analysis, penetration testing & network security · Mississauga, ON 🇨🇦
+
+🔗 [LinkedIn](https://www.linkedin.com/in/cto-prashant/) · 💻 [GitHub](https://github.com/prashantshrestha01)
+
+*Building in public — every project here is my own lab work.*
